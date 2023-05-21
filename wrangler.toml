@@ -1,4 +1,4 @@
-name = "url-shortner"
+name = "cloudflare-poc"
 main = "src/index.js"
 compatibility_date = "2023-05-21"
 node_compat = true
